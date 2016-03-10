@@ -1,0 +1,8 @@
+{
+  "name": "native-issue-viewer",
+  "version": "1.0",
+  "main": "native",
+  "storyboardId": "IssueView",
+  "src-folder": "./dist/",
+  "output-folder": "./dist-zip/"
+}

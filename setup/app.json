@@ -1,0 +1,8 @@
+{
+    "name": "pm-native-issue-viewer",
+    "version": "1.0",
+    "starter": "native-issue-viewer",
+    "dependencies": {
+        "native-issue-viewer": "1.0"
+     }
+}
